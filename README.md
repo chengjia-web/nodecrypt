@@ -1,18 +1,5 @@
 # NodeCrypt
 
-🌐 **[English README](README_EN.md)**
-
-## 🚀 部署说明
-
-### 一键部署到 Cloudflare Workers
-
-点击下方按钮即可一键部署到 Cloudflare Workers：
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?projectName=NodeCrypt)](https://deploy.workers.cloudflare.com/?url=https://github.com/shuaiplus/nodecrypt)
-
-- 构建命令：npm run build
-- 部署命令：npm run deploy
-- 
-
 ## 📝 项目简介
 
 NodeCrypt 是一个真正的端到端加密聊天系统，实现完全的零知识架构。整个系统设计确保服务器、网络中间人、甚至系统管理员都无法获取任何明文消息内容。所有加密和解密操作都在客户端本地进行，服务器仅作为加密数据的盲中继。
