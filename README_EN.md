@@ -1,4 +1,4 @@
-# NodeCrypt
+# 加密聊
 
 
 
@@ -86,10 +86,5 @@ This project uses the ISC open source license.
 
 ## ⚠️ Disclaimer
 
-This project is for educational and technical research purposes only and must not be used for any illegal or criminal activities. Users should comply with the relevant laws and regulations of their country and region. The project author assumes no legal responsibility for any consequences arising from the use of this software. Please use this project legally and compliantly.
-
----
-
-**NodeCrypt** - True End-to-End Encrypted Communication 🔐
 
 *"In the digital age, encryption is the last line of defense for privacy"*
